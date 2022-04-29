@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8327c31-8417-4096-b98b-0d99e8b9d401" name="Changes" comment="Exercicios 1, 2 e 3">
-      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/loops/Exercicio4_ParImpar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/loops/Exercicio5_Tabuada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/loops/Exercicio6_Fatorial.java" afterDir="false" />
+    <list default="true" id="b8327c31-8417-4096-b98b-0d99e8b9d401" name="Changes" comment="Exercicios 4, 5 e 6">
+      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/arrays/Exercicio1_OrdemInversa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/arrays/Exercicio2_Consoantes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +44,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercicio6_Fatorial">
-    <configuration name="Exercicio1_NomeIdade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dio.exercicios.loops.Exercicio1_NomeIdade" />
+  <component name="RunManager" selected="Application.Exercicio2_Consoantes">
+    <configuration name="Exercicio1_OrdemInversa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dio.exercicios.arrays.Exercicio1_OrdemInversa" />
       <module name="Exercicios-loops-e-arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dio.exercicios.loops.*" />
+          <option name="PATTERN" value="dio.exercicios.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio3_Maior_e_Media" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dio.exercicios.loops.Exercicio3_Maior_e_Media" />
+    <configuration name="Exercicio2_Consoantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dio.exercicios.arrays.Exercicio2_Consoantes" />
       <module name="Exercicios-loops-e-arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dio.exercicios.loops.*" />
+          <option name="PATTERN" value="dio.exercicios.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio2_Consoantes" />
+        <item itemvalue="Application.Exercicio1_OrdemInversa" />
         <item itemvalue="Application.Exercicio6_Fatorial" />
         <item itemvalue="Application.Exercicio5_Tabuada" />
         <item itemvalue="Application.Exercicio4_ParImpar" />
-        <item itemvalue="Application.Exercicio3_Maior_e_Media" />
-        <item itemvalue="Application.Exercicio1_NomeIdade" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651266783800</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exercicios 4, 5 e 6">
+      <created>1651269124184</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651269124184</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,7 +159,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercicios 1, 2 e 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicios 1, 2 e 3" />
+    <MESSAGE value="Exercicios 4, 5 e 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicios 4, 5 e 6" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
