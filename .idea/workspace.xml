@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8327c31-8417-4096-b98b-0d99e8b9d401" name="Changes" comment="Exercicios 3 feito do meu jeito">
-      <change beforePath="$PROJECT_DIR$/src/dio/exercicios/arrays/Exercicio3_NumerosAleatorios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dio/exercicios/arrays/Exercicio3_NumerosAleatorios.java" afterDir="false" />
+    <list default="true" id="b8327c31-8417-4096-b98b-0d99e8b9d401" name="Changes" comment="Exercicios 3 feito com Random()">
+      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/arrays/Exercicio4_ArrayMultidimensional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.dio.exercicios.arrays.Exercicio3_NumerosAleatorios">
+  <component name="RunManager" selected="Application.Exercicio4_ArrayMultidimensional">
     <configuration name="Exercicio1_OrdemInversa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dio.exercicios.arrays.Exercicio1_OrdemInversa" />
       <module name="Exercicios-loops-e-arrays" />
@@ -69,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio5_Tabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dio.exercicios.loops.Exercicio5_Tabuada" />
+    <configuration name="Exercicio4_ArrayMultidimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dio.exercicios.arrays.Exercicio4_ArrayMultidimensional" />
       <module name="Exercicios-loops-e-arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dio.exercicios.loops.*" />
+          <option name="PATTERN" value="dio.exercicios.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio4_ArrayMultidimensional" />
         <item itemvalue="Application.dio.exercicios.arrays.Exercicio3_NumerosAleatorios" />
         <item itemvalue="Application.Exercicio2_Consoantes" />
         <item itemvalue="Application.Exercicio1_OrdemInversa" />
         <item itemvalue="Application.Exercicio6_Fatorial" />
-        <item itemvalue="Application.Exercicio5_Tabuada" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651274160752</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Exercicios 3 feito com Random()">
+      <created>1651274527831</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651274527831</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,7 +182,8 @@
     <MESSAGE value="Exercicios 4, 5 e 6" />
     <MESSAGE value="Exercicios 1 e 2 de arrays" />
     <MESSAGE value="Exercicios 3 feito do meu jeito" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicios 3 feito do meu jeito" />
+    <MESSAGE value="Exercicios 3 feito com Random()" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicios 3 feito com Random()" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
