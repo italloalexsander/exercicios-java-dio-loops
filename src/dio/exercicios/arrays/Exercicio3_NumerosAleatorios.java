@@ -5,6 +5,7 @@ Faça um Programa que leia 20 números inteiros aleatórios (entre 0 e 100) arma
 Ao final mostre os números e seus sucessores.
 */
 
+import java.util.Random;
 import java.util.Scanner;
 
 public class Exercicio3_NumerosAleatorios {
@@ -13,8 +14,12 @@ public class Exercicio3_NumerosAleatorios {
         int vetorTamanho = vetor.length;
         int numero;
         Scanner input = new Scanner(System.in);
+        Random aleatorio = new Random();
 
         for(int i = 0; i < vetorTamanho; i++){
+            /* O trecho abaixo considerava que o enunciado queria numeros aleatórios inseridos pelo
+            usuário
+
             while (true) {
                 System.out.println("Insira um numero válido(0-100): ");
                 numero = input.nextInt();
@@ -24,15 +29,18 @@ public class Exercicio3_NumerosAleatorios {
                     break;
                 }
             }
+            */
+            numero = aleatorio.nextInt(100);
+            vetor[i] = numero;
         }
 
-        System.out.print("Números: [");
+        System.out.print("Números: [ ");
         for(int j: vetor){
             System.out.print(j + " ");
         }
         System.out.println("]\n");
 
-        System.out.print("Sucessores: [");
+        System.out.print("Sucessores: [ ");
         for(int j: vetor){
             System.out.print((j + 1) + " ");
         }
