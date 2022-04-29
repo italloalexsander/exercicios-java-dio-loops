@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8327c31-8417-4096-b98b-0d99e8b9d401" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-loops-e-arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/loops/Exercicio1_NomeIdade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/loops/Exercicio2_Nota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/loops/Exercicio3_Maior_e_Media.java" afterDir="false" />
+    <list default="true" id="b8327c31-8417-4096-b98b-0d99e8b9d401" name="Changes" comment="Exercicios 1, 2 e 3">
+      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/loops/Exercicio4_ParImpar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/loops/Exercicio5_Tabuada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dio/exercicios/loops/Exercicio6_Fatorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,22 +45,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercicio3_Maior_e_Media">
+  <component name="RunManager" selected="Application.Exercicio6_Fatorial">
     <configuration name="Exercicio1_NomeIdade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dio.exercicios.loops.Exercicio1_NomeIdade" />
-      <module name="Exercicios-loops-e-arrays" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dio.exercicios.loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio2_Nota" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dio.exercicios.loops.Exercicio2_Nota" />
       <module name="Exercicios-loops-e-arrays" />
       <extension name="coverage">
         <pattern>
@@ -93,11 +72,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio4_ParImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dio.exercicios.loops.Exercicio4_ParImpar" />
+      <module name="Exercicios-loops-e-arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dio.exercicios.loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio5_Tabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dio.exercicios.loops.Exercicio5_Tabuada" />
+      <module name="Exercicios-loops-e-arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dio.exercicios.loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio6_Fatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dio.exercicios.loops.Exercicio6_Fatorial" />
+      <module name="Exercicios-loops-e-arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dio.exercicios.loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio6_Fatorial" />
+        <item itemvalue="Application.Exercicio5_Tabuada" />
+        <item itemvalue="Application.Exercicio4_ParImpar" />
         <item itemvalue="Application.Exercicio3_Maior_e_Media" />
         <item itemvalue="Application.Exercicio1_NomeIdade" />
-        <item itemvalue="Application.Exercicio2_Nota" />
       </list>
     </recent_temporary>
   </component>
@@ -110,6 +130,14 @@
       <option name="presentableId" value="Default" />
       <updated>1651259211160</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercicios 1, 2 e 3">
+      <created>1651266783800</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651266783800</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +150,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercicios 1, 2 e 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicios 1, 2 e 3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
