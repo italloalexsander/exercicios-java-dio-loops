@@ -18,11 +18,19 @@ public class Exercicio4_ArrayMultidimensional {
                 }
         }
 
+        /* Aprimorado com foreach abaixo
         for(int i = 0; i < M[0].length; i++){
             for(int j = 0; j < M[0].length; j++){
                 System.out.print(M[i][j] + " ");
             }
             System.out.println("");
+        }*/
+
+        for (int[] i: M) {
+            for(int j: i){
+                System.out.print(j + " ");
+            }
+            System.out.println();
         }
     }
 }
